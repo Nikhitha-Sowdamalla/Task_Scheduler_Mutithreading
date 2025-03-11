@@ -1,8 +1,4 @@
-Here's a clean and short **README.md** for your project:  
-
----
-
-# ✅ Task Scheduler API (Spring Boot)  
+  # ✅ Task Scheduler API (Spring Boot)  
 
 This is a **simple Task Scheduler API** built using **Spring Boot** without any database or repository layer. It uses **in-memory storage (ArrayList)** to store tasks temporarily.  
 
